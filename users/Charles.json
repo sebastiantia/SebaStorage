@@ -1,0 +1,12 @@
+{
+	"Name": "Charles",
+	"Age": 23,
+	"Contact": "17781234567",
+	"Company": "PW",
+	"Address": {
+		"City": "Vancouver",
+		"State": "British Columbia",
+		"Country": "Canada",
+		"Pincode": 234234
+	}
+}

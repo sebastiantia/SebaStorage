@@ -1,0 +1,12 @@
+{
+	"Name": "Seb",
+	"Age": 23,
+	"Contact": "17781234567",
+	"Company": "VTS",
+	"Address": {
+		"City": "Waterloo",
+		"State": "Ontario",
+		"Country": "Canada",
+		"Pincode": 234234
+	}
+}

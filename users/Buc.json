@@ -1,0 +1,12 @@
+{
+	"Name": "Buc",
+	"Age": 23,
+	"Contact": "1778621234567",
+	"Company": "Watching anime",
+	"Address": {
+		"City": "Vancouver",
+		"State": "British Columbia",
+		"Country": "Canada",
+		"Pincode": 234234
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Supreme Leader",
+	"Age": 23,
+	"Contact": "17781234567",
+	"Company": "Stay home",
+	"Address": {
+		"City": "Vancouver",
+		"State": "British Columbia",
+		"Country": "Canada",
+		"Pincode": 234234
+	}
+}
