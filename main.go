@@ -22,7 +22,9 @@ type (
 		Debug(string, ...interface{})
 		Trace(string, ...interface{})
 	}
+)
 
+type (
 	Driver struct {//responsible for interacting code w db
 		mutex 	sync.Mutex //mutexes to write and delete
 		mutexes map[string]*sync.Mutex
